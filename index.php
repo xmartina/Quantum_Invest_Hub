@@ -1,3 +1,3 @@
-<?php
-    include_once __DIR__ . ('layout/header.php');
-    dffs
+<?php include_once __DIR__ . ('layout/header.php'); ?>
+
+    
