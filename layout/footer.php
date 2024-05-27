@@ -8,7 +8,7 @@
                 <div class="col-xl-5 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="footer-widget__about-logo">
-                            <a href="/"><img src="assets/images/footer-logo.png" alt=""></a>
+                            <a href="/"><img src="assets/images/footer-logo.png" alt="" style="max-width: 170px !important;"></a>
                         </div>
                         <p class="footer-widget__text">We have suitable plans for both beginners and professional investors.
                             We bring big profits and challenge the loss. We work with our clients, not at them.</p>
