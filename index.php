@@ -507,23 +507,23 @@ include_once ('layout/header.php'); ?>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="400ms">
+            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="600ms">
                 <!--Services One Single-->
                 <div class="services-one__single">
                     <div class="services-one__content">
 
-                        <h3 class="services-one__title"><a href="#">Share Plan</a></h3>
+                        <h3 class="services-one__title"><a href="#">Ultimate Pro</a></h3>
                         <br>
                         <div class="listen__progress">
                             <div class="listen__progress-box">
                                 <div class="circle-progress"
                                      data-options='{ "value": 1,"thickness": 5,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
                                 </div><!-- /.circle-progress -->
-                                <span style='font-size: 16pt;'>100% / 48 Hours</span>
+                                <span style='font-size: 16pt;'>150% / 72 Days</span>
                             </div>
                             <div class="listen__progress-content">
-                                <h3>Min - $5,000</h3>
-                                <h3>Max - Unlimited</h3>
+                                <h3>Min - $50,000</h3>
+                                <h3>Max - $$200,999</h3>
                             </div>
                         </div>
                         <br>
@@ -534,23 +534,23 @@ include_once ('layout/header.php'); ?>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="400ms">
+            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="700ms">
                 <!--Services One Single-->
                 <div class="services-one__single">
                     <div class="services-one__content">
 
-                        <h3 class="services-one__title"><a href="#">Share Plan</a></h3>
+                        <h3 class="services-one__title"><a href="#">Elite Plan</a></h3>
                         <br>
                         <div class="listen__progress">
                             <div class="listen__progress-box">
                                 <div class="circle-progress"
                                      data-options='{ "value": 1,"thickness": 5,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
                                 </div><!-- /.circle-progress -->
-                                <span style='font-size: 16pt;'>100% / 48 Hours</span>
+                                <span style='font-size: 16pt;'>200% / 96 Days</span>
                             </div>
                             <div class="listen__progress-content">
-                                <h3>Min - $5,000</h3>
-                                <h3>Max - Unlimited</h3>
+                                <h3>Min - $80,000</h3>
+                                <h3>Max - $500,000</h3>
                             </div>
                         </div>
                         <br>
