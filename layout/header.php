@@ -1,4 +1,4 @@
-<?php include_once __DIR__ . ('include/general_settins.php'); ?>
+<?php include_once rootDir . ('include/general_settins.php'); ?>
 
     <head>
     <meta charset="UTF-8" />
