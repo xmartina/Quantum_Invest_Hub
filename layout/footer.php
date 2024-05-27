@@ -8,7 +8,7 @@
                 <div class="col-xl-5 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="footer-widget__about-logo">
-                            <a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a>
+                            <a href="/"><img src="assets/images/footer-logo.png" alt=""></a>
                         </div>
                         <p class="footer-widget__text">We have suitable plans for both beginners and professional investors.
                             We bring big profits and challenge the loss. We work with our clients, not at them.</p>
@@ -43,7 +43,7 @@
                                     <i class="fas fa-envelope"></i>
                                 </div>
                                 <div class="text">
-                                    <p><a href="mailto:Admin@investcotrade.com">Admin@investcotrade.com</a></p>
+                                    <p><a href="mailto:<?=$site_email?>"><?=$site_email?></a></p>
                                 </div>
                             </li>
                             <li>
@@ -64,7 +64,7 @@
                 <div class="col-xl-12">
                     <div class="site-footer-bottom__inner">
                         <div class="site-footer-bottom__left">
-                            <p>© Copyright 2024 by <a href="#">Investcotrade</a></p>
+                            <p>© Copyright 2024 by <a href="#"><?=$site_name?></a></p>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.html" aria-label="logo image"><img src="assets/images/logo-1.png" width="155"
+            <a href="/" aria-label="logo image"><img src="assets/images/logo-1.png" width="155"
                                                               alt="" /></a>
         </div>
         <!-- /.logo-box -->
@@ -95,7 +95,7 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:Admin@investcotrade.com">Admin@investcotrade.com</a>
+                <a href="mailto:<?=$site_email?>"><?=$site_email?></a>
             </li>
         </ul><!-- /.mobile-nav__contact -->
         <div id="google_translate_element"></div>
