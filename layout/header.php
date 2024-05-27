@@ -81,7 +81,7 @@ function googleTranslateElementInit() {
                 <div class="main-menu-wrapper clearfix">
                     <div class="main-menu-wrapper__left">
                         <div class="main-menu-wrapper__logo">
-                            <a href="/"><img src="assets/images/logo-1.png" alt="" style="max-width: 230px !important;"></a>
+                            <a href="/"><img src="assets/images/logo-1.png" alt="" style="max-width: 170px !important;"></a>
                             <div class="nav-search" id="ytWidget"></div><script src="../../translate.yandex.net/website-widget/v1/widget80d6.js?widgetId=ytWidget&amp;pageLang=en&amp;widgetTheme=light&amp;autoMode=false" type="text/javascript"></script>
                         </div>
 
