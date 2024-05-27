@@ -395,7 +395,7 @@ include_once ('layout/header.php'); ?>
                         <br>
                         <p>Referral Bonus - 5%</p>
                         <p>Instant Withdrawals</p>
-                        <a href="<?$signup_url?>" class="thm-btn">Select Plan</a>
+                        <a href="<?=$signup_url?>" class="thm-btn">Select Plan</a>
                     </div>
                 </div>
             </div>
@@ -422,7 +422,7 @@ include_once ('layout/header.php'); ?>
                         <p>Referral Bonus - 5%</p>
                         <p>Instant Withdrawals</p>
 
-                        <a href="<?$signup_url?>" class="thm-btn">Select Plan</a>
+                        <a href="<?=$signup_url?>" class="thm-btn">Select Plan</a>
                     </div>
                 </div>
             </div>
@@ -449,7 +449,7 @@ include_once ('layout/header.php'); ?>
                         <p>Referral Bonus - 5%</p>
                         <p>Instant Withdrawals</p>
 
-                        <a href="<?$signup_url?>" class="thm-btn">Select Plan</a>
+                        <a href="<?=$signup_url?>" class="thm-btn">Select Plan</a>
                     </div>
                 </div>
             </div>
@@ -476,7 +476,7 @@ include_once ('layout/header.php'); ?>
                         <p>Referral Bonus - 7%</p>
                         <p>Instant Withdrawals</p>
 
-                        <a href="<?$signup_url?>" class="thm-btn">Select Plan</a>
+                        <a href="<?=$signup_url?>" class="thm-btn">Select Plan</a>
                     </div>
                 </div>
             </div>
