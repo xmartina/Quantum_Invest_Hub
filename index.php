@@ -40,7 +40,7 @@ include_once ('layout/header.php'); ?>
                                 <h2>Assets and <br> Real Estate
                                 </h2>
                                 <p>will give you financial freedom</p>
-                                <a href="indexe47e.html?a=about" class="thm-btn">Register</a>
+                                <a href="<?=$signup_url?>" class="thm-btn">Register</a>
                             </div>
                         </div>
                     </div>
