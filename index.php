@@ -61,7 +61,7 @@ include_once ('layout/header.php'); ?>
                                 <h2>Finance <span class="main-slider-two__single-text">&</span> <br> Investment
                                 </h2>
                                 <p>We have a team of financial professionals with years of industry experience</p>
-                                <a href="https://investcotrade.com/L/login" class="thm-btn">Start Now</a>
+                                <a href="<?=$login_url?>" class="thm-btn">Start Now</a>
                             </div>
                         </div>
                     </div>
@@ -206,7 +206,7 @@ include_once ('layout/header.php'); ?>
             <div class="col-xl-5 col-lg-6">
                 <div class="industries__top-text-box">
                     <p class="industries__top-text">Finances are complex; planning for the future means balancing
-                        risk and opportunity in a way that suits your unique situation. At investcotrade, taking the right steps toward financial success is easier than ever before.</p>
+                        risk and opportunity in a way that suits your unique situation. At <?=$site_name?>, taking the right steps toward financial success is easier than ever before.</p>
                 </div>
             </div>
         </div>
@@ -223,7 +223,7 @@ include_once ('layout/header.php'); ?>
                     <span class="icon-protection"></span>
                 </div>
                 <h3 class="industries__title"><a href="#">Integrity & <br>Trustworthy</a></h3>
-                <p class="industries__text">Investcotrade is authorized and regulated by the Financial Conduct Authority and by the United Kingdom Security and Exchange Commission.</p>
+                <p class="industries__text"><?=$site_name?> is authorized and regulated by the Financial Conduct Authority and by the United Kingdom Security and Exchange Commission.</p>
             </li>
             <li class="industries__single wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="industries__icon">
@@ -237,7 +237,7 @@ include_once ('layout/header.php'); ?>
                     <span class="icon-software"></span>
                 </div>
                 <h3 class="industries__title"><a href="#">Insurance & <br> Safety</a></h3>
-                <p class="industries__text">Investcotrade fully secures the investors capital with excellent insurance policies to ensure effective risk management against losses.</p>
+                <p class="industries__text"><?=$site_name?> fully secures the investors capital with excellent insurance policies to ensure effective risk management against losses.</p>
             </li>
         </ul>
     </div>
@@ -395,7 +395,7 @@ include_once ('layout/header.php'); ?>
                         <br>
                         <p>Referral Bonus - 5%</p>
                         <p>Instant Withdrawals</p>
-                        <a href="https://investcotrade.com/L/register" class="thm-btn">Select Plan</a>
+                        <a href="<?$signup_url?>" class="thm-btn">Select Plan</a>
                     </div>
                 </div>
             </div>
@@ -422,7 +422,7 @@ include_once ('layout/header.php'); ?>
                         <p>Referral Bonus - 5%</p>
                         <p>Instant Withdrawals</p>
 
-                        <a href="https://investcotrade.com/L/register" class="thm-btn">Select Plan</a>
+                        <a href="<?$signup_url?>" class="thm-btn">Select Plan</a>
                     </div>
                 </div>
             </div>
@@ -449,7 +449,7 @@ include_once ('layout/header.php'); ?>
                         <p>Referral Bonus - 5%</p>
                         <p>Instant Withdrawals</p>
 
-                        <a href="https://investcotrade.com/L/register" class="thm-btn">Select Plan</a>
+                        <a href="<?$signup_url?>" class="thm-btn">Select Plan</a>
                     </div>
                 </div>
             </div>
@@ -476,7 +476,7 @@ include_once ('layout/header.php'); ?>
                         <p>Referral Bonus - 7%</p>
                         <p>Instant Withdrawals</p>
 
-                        <a href="https://investcotrade.com/L/register" class="thm-btn">Select Plan</a>
+                        <a href="<?$signup_url?>" class="thm-btn">Select Plan</a>
                     </div>
                 </div>
             </div>
@@ -515,7 +515,7 @@ include_once ('layout/header.php'); ?>
                         </div>
                         <!--Testimonials One Single-->
                         <div class="testimonials-one__single">
-                            <p class="testimonials-one__text"> Investcotrade analysts have done an excellent job presenting the analysis & insights. we are confident that they have helped move our business forward </p>
+                            <p class="testimonials-one__text"> <?=$site_name?> analysts have done an excellent job presenting the analysis & insights. we are confident that they have helped move our business forward </p>
                             <div class="testimonials-one__client-info">
                                 <h5 class="testimonials-one__client-name">Abdel Channa</h5>
                                 <p class="testimonials-one__client-title">Customer</p>
@@ -539,7 +539,7 @@ include_once ('layout/header.php'); ?>
                         </div>
                         <!--Testimonials One Single-->
                         <div class="testimonials-one__single">
-                            <p class="testimonials-one__text">I will like to use this opportunity to thank the Investcotrade team for the amazing work they are doing to make sure the investors earn lots of profits.</p>
+                            <p class="testimonials-one__text">I will like to use this opportunity to thank the <?=$site_name?> team for the amazing work they are doing to make sure the investors earn lots of profits.</p>
                             <div class="testimonials-one__client-info">
                                 <h5 class="testimonials-one__client-name">Emily Mendez</h5>
                                 <p class="testimonials-one__client-title">Customer</p>
@@ -630,7 +630,7 @@ include_once ('layout/header.php'); ?>
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h4><span>.</span> IS INVESTCOTRADE A REGISTERED COMPANY?</h4>
+                                    <h4><span>.</span> IS <span class="uppercase"><?=$site_name?></span> A REGISTERED COMPANY?</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
@@ -660,7 +660,7 @@ include_once ('layout/header.php'); ?>
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4><span>.</span>WHAT ADVANTAGES DOES INVESTCOTRADE HAVE?</h4>
+                                    <h4><span>.</span>WHAT ADVANTAGES DOES <span class="uppercase"><?=$site_name?></span> HAVE?</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
