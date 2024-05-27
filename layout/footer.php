@@ -18,9 +18,9 @@
                     <div class="footer-widget__column footer-widget__explore clearfix">
                         <h3 class="footer-widget__title">Useful Links</h3>
                         <ul class="footer-widget__explore-list list-unstyled">
-                            <li><a href="indexe47e.html?a=about">About</a></li>
-                            <li><a href="index15a0.html?a=support">Contact</a></li>
-                            <li><a href="index38cd.html?a=faq">FAQ</a></li>
+                            <li><a href="/about.php">About</a></li>
+                            <li><a href="/contact.php">Contact</a></li>
+                            <li><a href="/faq.php">FAQ</a></li>
 
                         </ul>
                         <ul class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled">
