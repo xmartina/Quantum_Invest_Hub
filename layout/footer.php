@@ -24,8 +24,8 @@
 
                         </ul>
                         <ul class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled">
-                            <li><a href="https://investcotrade.com/L/login">Log In</a></li>
-                            <li><a href="https://investcotrade.com/L/register">Sign Up</a></li>
+                            <li><a href="<?=$dashboard_url?>/L/login">Log In</a></li>
+                            <li><a href="<?=$dashboard_url?>/L/register">Sign Up</a></li>
 
                         </ul>
                     </div>

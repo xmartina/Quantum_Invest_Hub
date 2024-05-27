@@ -97,8 +97,8 @@ function googleTranslateElementInit() {
                                 <li><a href="/about.php">About Us</a></li>
                                 <li><a href="/contact.php">Contact Us</a></li>
                                 <li><a href="/faq.php">FAQ</a></li>
-                                <li><a href="https://investcotrade.com/L/login">Login</a></li>
-                                <li><a href="https://investcotrade.com/L/register">Create Account</a></li>
+                                <li><a href="<?=$dashboard_url?>/L/login">Login</a></li>
+                                <li><a href="<?=$dashboard_url?>/L/register">Create Account</a></li>
                             </ul>
                         </div>
 
