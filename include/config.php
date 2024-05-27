@@ -15,3 +15,7 @@ $site_address = $site_st['site_address'];
 $dashboard_url = $site_st['dashboard_url'];
 $login_url = $site_st['login_url'];
 $signup_url = $site_st['signup_url'];
+
+function support_plugin() {
+    require_once 'support_plugin.php';
+}

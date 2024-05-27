@@ -368,7 +368,7 @@ include_once ('layout/header.php'); ?>
             </div>
             <div class="col-xl-5 col-lg-6">
                 <div class="industries__top-text-box">
-                    <p class="industries__top-text">We have a wide range of investment plans to help yopu have a seamless investment experience</p>
+                    <p class="industries__top-text">We have a wide range of investment plans to help you have a seamless investment experience</p>
                 </div>
             </div>
         </div>
@@ -378,18 +378,18 @@ include_once ('layout/header.php'); ?>
                 <div class="services-one__single">
                     <div class="services-one__content">
 
-                        <h3 class="services-one__title"><a href="#">Basic Plan</a></h3>
+                        <h3 class="services-one__title"><a href="#">Amateur Plan</a></h3>
                         <br>
                         <div class="listen__progress">
                             <div class="listen__progress-box">
                                 <div class="circle-progress"
                                      data-options='{ "value": 1,"thickness": 5,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
                                 </div><!-- /.circle-progress -->
-                                <span style='font-size: 16pt;'>20% / 15 Hours </span>
+                                <span style='font-size: 16pt;'>10% / 24 Hours </span>
                             </div>
                             <div class="listen__progress-content">
-                                <h3>Min - $30</h3>
-                                <h3>Max - $499</h3>
+                                <h3>Min - $50</h3>
+                                <h3>Max - $3,999</h3>
                             </div>
                         </div>
                         <br>
@@ -404,18 +404,18 @@ include_once ('layout/header.php'); ?>
                 <div class="services-one__single">
                     <div class="services-one__content">
 
-                        <h3 class="services-one__title"><a href="#">Gold Plan</a></h3>
+                        <h3 class="services-one__title"><a href="#">Regular Package</a></h3>
                         <br>
                         <div class="listen__progress">
                             <div class="listen__progress-box">
                                 <div class="circle-progress"
                                      data-options='{ "value": 1,"thickness": 5,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
                                 </div><!-- /.circle-progress -->
-                                <span style='font-size: 16pt;'>50% / 24 Hours</span>
+                                <span style='font-size: 16pt;'>15% / 48 Hours</span>
                             </div>
                             <div class="listen__progress-content">
-                                <h3>Min - $500</h3>
-                                <h3>Max - $3000</h3>
+                                <h3>Min - $4,000</h3>
+                                <h3>Max - $9,999</h3>
                             </div>
                         </div>
                         <br>
@@ -431,18 +431,18 @@ include_once ('layout/header.php'); ?>
                 <div class="services-one__single">
                     <div class="services-one__content">
 
-                        <h3 class="services-one__title"><a href="#">Ultimate Plan</a></h3>
+                        <h3 class="services-one__title"><a href="#">Pro Package</a></h3>
                         <br>
                         <div class="listen__progress">
                             <div class="listen__progress-box">
                                 <div class="circle-progress"
                                      data-options='{ "value": 1,"thickness": 5,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
                                 </div><!-- /.circle-progress -->
-                                <span style='font-size: 16pt;'>75% /24 Hours</span>
+                                <span style='font-size: 16pt;'>35% /72 Hours</span>
                             </div>
                             <div class="listen__progress-content">
-                                <h3>Min - $3000</h3>
-                                <h3>Max - $4999</h3>
+                                <h3>Min - $10,000</h3>
+                                <h3>Max - $15,999</h3>
                             </div>
                         </div>
                         <br>
@@ -453,7 +453,88 @@ include_once ('layout/header.php'); ?>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="100ms">
+            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="400ms">
+                <!--Services One Single-->
+                <div class="services-one__single">
+                    <div class="services-one__content">
+
+                        <h3 class="services-one__title"><a href="#">Diamond Package</a></h3>
+                        <br>
+                        <div class="listen__progress">
+                            <div class="listen__progress-box">
+                                <div class="circle-progress"
+                                     data-options='{ "value": 1,"thickness": 5,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
+                                </div><!-- /.circle-progress -->
+                                <span style='font-size: 16pt;'>50% / 96 Hours</span>
+                            </div>
+                            <div class="listen__progress-content">
+                                <h3>Min - $16,000</h3>
+                                <h3>Max - $50,000</h3>
+                            </div>
+                        </div>
+                        <br>
+                        <p>Referral Bonus - 7%</p>
+                        <p>Instant Withdrawals</p>
+
+                        <a href="<?=$signup_url?>" class="thm-btn">Select Plan</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="500ms">
+                <!--Services One Single-->
+                <div class="services-one__single">
+                    <div class="services-one__content">
+
+                        <h3 class="services-one__title"><a href="#">Ultimate Plan</a></h3>
+                        <br>
+                        <div class="listen__progress">
+                            <div class="listen__progress-box">
+                                <div class="circle-progress"
+                                     data-options='{ "value": 1,"thickness": 5,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
+                                </div><!-- /.circle-progress -->
+                                <span style='font-size: 16pt;'>130% / 30 Days</span>
+                            </div>
+                            <div class="listen__progress-content">
+                                <h3>Min - $50,000</h3>
+                                <h3>Max - $150,000</h3>
+                            </div>
+                        </div>
+                        <br>
+                        <p>Referral Bonus - 7%</p>
+                        <p>Instant Withdrawals</p>
+
+                        <a href="<?=$signup_url?>" class="thm-btn">Select Plan</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="400ms">
+                <!--Services One Single-->
+                <div class="services-one__single">
+                    <div class="services-one__content">
+
+                        <h3 class="services-one__title"><a href="#">Share Plan</a></h3>
+                        <br>
+                        <div class="listen__progress">
+                            <div class="listen__progress-box">
+                                <div class="circle-progress"
+                                     data-options='{ "value": 1,"thickness": 5,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
+                                </div><!-- /.circle-progress -->
+                                <span style='font-size: 16pt;'>100% / 48 Hours</span>
+                            </div>
+                            <div class="listen__progress-content">
+                                <h3>Min - $5,000</h3>
+                                <h3>Max - Unlimited</h3>
+                            </div>
+                        </div>
+                        <br>
+                        <p>Referral Bonus - 7%</p>
+                        <p>Instant Withdrawals</p>
+
+                        <a href="<?=$signup_url?>" class="thm-btn">Select Plan</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="400ms">
                 <!--Services One Single-->
                 <div class="services-one__single">
                     <div class="services-one__content">

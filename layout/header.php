@@ -62,19 +62,8 @@ function googleTranslateElementInit() {
 
 <script type="text/javascript" src="../../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit"></script>
 
-<!-- Smartsupp Live Chat script -->
-<script type="text/javascript">
-    var _smartsupp = _smartsupp || {};
-_smartsupp.key = '6c019f7170e4ad0337de04d2d0f88f8490c1ddb2';
-window.smartsupp||(function(d) {
-  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-  c.type='text/javascript';c.charset='utf-8';c.async=true;
-  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
-})(document);
-</script>
-<noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
- 
+<!--        Support Plugin-->
+<?php support_plugin() ?>
 
 </head>
 
@@ -92,7 +81,7 @@ window.smartsupp||(function(d) {
                 <div class="main-menu-wrapper clearfix">
                     <div class="main-menu-wrapper__left">
                         <div class="main-menu-wrapper__logo">
-                            <a href="index.html"><img src="assets/images/logo-1.png" alt=""></a>
+                            <a href="/"><img src="assets/images/logo-1.png" alt=""></a>
                             <div class="nav-search" id="ytWidget"></div><script src="../../translate.yandex.net/website-widget/v1/widget80d6.js?widgetId=ytWidget&amp;pageLang=en&amp;widgetTheme=light&amp;autoMode=false" type="text/javascript"></script>
                         </div>
 
@@ -104,10 +93,10 @@ window.smartsupp||(function(d) {
                                 <span class="mobile-nav__toggler-bar"></span>
                             </a>
                             <ul class="main-menu__list">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="indexe47e.html?a=about">About Us</a></li>
-                                <li><a href="index15a0.html?a=support">Contact Us</a></li>
-                                <li><a href="index38cd.html?a=faq">FAQ</a></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/about.php">About Us</a></li>
+                                <li><a href="/contact.php">Contact Us</a></li>
+                                <li><a href="/faq.php">FAQ</a></li>
                                 <li><a href="https://investcotrade.com/L/login">Login</a></li>
                                 <li><a href="https://investcotrade.com/L/register">Create Account</a></li>
                             </ul>
