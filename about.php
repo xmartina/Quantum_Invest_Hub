@@ -1,5 +1,6 @@
 
 <?php
+$pageName = 'About';
 include_once ('router.php');
 include_once ('layout/header.php'); ?>
 
