@@ -1,4 +1,4 @@
-<?php include_once rootDir . ('include/general_settins.php'); ?>
+<?php include_once rootDir . ('include/general_settings.php'); ?>
 
     <head>
     <meta charset="UTF-8" />
