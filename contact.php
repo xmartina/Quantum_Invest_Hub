@@ -38,7 +38,7 @@ include_once ('layout/header.php'); ?>
                     <div class="locations__single">
                         <h3 class="locations__title">Our Email</h3>
                         <h4 class="locations__mail-phone-box">
-                            <a href="mailto:<?=$site_email?>>" class="locations__mail"><?=$site_email?>></a>
+                            <a href="mailto:<?=$site_email?>" class="locations__mail"><?=$site_email?></a>
                         </h4>
                     </div>
                 </div>
