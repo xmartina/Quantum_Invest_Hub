@@ -18,10 +18,10 @@ function dbConnect()
     }
 }
 
-function support_plugin()
-{
-    require_once 'support_plugin.php';
-}
+//function support_plugin()
+//{
+//    require_once 'support_plugin.php';
+//}
 
 //return dbConnect();
 
